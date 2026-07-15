@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI temp files
+*.pbix.lock
+*.pbix~
+
+# Data exports (large files - store in data/raw/ only)
+*.csv
+!data/raw/*.csv
+
+# Excel locks
+~$*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
