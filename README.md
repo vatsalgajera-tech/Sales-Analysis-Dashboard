@@ -159,9 +159,6 @@ FACT_Budget (standalone — linked via Date column)
 
 </table>
 
-[![GitHub](https://img.shields.io/badge/GitHub-vatsalgajera--tech-181717?style=flat&logo=github)](https://github.com/vatsalgajera-tech)
-[![Repo](https://img.shields.io/badge/Repo-Sales--Analysis--Dashboard-blue?style=flat&logo=github)](https://github.com/vatsalgajera-tech/Sales-Analysis-Dashboard)
-
 ---
 
 ## Acknowledgements
